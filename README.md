@@ -1,2 +1,9 @@
-# HMM-Learning4SAS
- Hidden Markov Models Learning for Self-Adaptive Systems. Defintion of hidden states, observations, and application of the Baum-Welch algorithm
+# About
+Exploring various Markov models for Self-Adaptive Systems
+- Discrete Markov Chains
+- Continuous Time Markov Chains
+- Hidden Markov Models 
+- Semi-Markov Models 
+
+# Content
+Lecture slides and project specifications
