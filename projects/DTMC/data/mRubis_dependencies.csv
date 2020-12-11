@@ -1,0 +1,27 @@
+Caller ID,Source (Caller),Target (Callee),Target ID
+6,Authentication Service,Query Service,13
+7,Availability Item Filter,Region Item Filter,15
+1,Bid and Buy Service,Query Service,13
+1,Bid and Buy Service,Persistence Service,17
+1,Bid and Buy Service,Inventory Service,5
+1,Bid and Buy Service,Authentication Service,6
+8,Buy Now Item Filter,Availability Item Filter,7
+9,Category Item Filter,Recommendation Item Filter,14
+10,Comment Item Filter,Category Item Filter,9
+5,Inventory Service,Query Service,13
+5,Inventory Service,Persistence Service,17
+2,Item Management Service,Query Service,13
+2,Item Management Service,Persistence Service,17
+2,Item Management Service,Authentication Service,6
+11,Last Second Sales Item Filter,Past Sales Item Filter,12
+12,Past Sales Item Filter,Buy Now Item Filter,8
+13,Query Service,Last Second Sales Item Filter,11
+14,Recommendation Item Filter,Future Sales Item Filter,18
+15,Region Item Filter,Seller Reputation Item Filter,16
+3,Reputation Service,Query Service,13
+3,Reputation Service,Authentication Service,6
+3,Reputation Service,Persistence Service,17
+16,Seller Reputation Item Filter,Comment Item Filter,10
+4,User Management Service,Query Service,13
+4,User Management Service,Persistence Service,17
+4,User Management Service,Authentication Service,6
